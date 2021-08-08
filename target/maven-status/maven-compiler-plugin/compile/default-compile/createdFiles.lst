@@ -1,5 +1,0 @@
-eu\kijora\crud\CrudApplication.class
-eu\kijora\crud\payroll\DatabaseLoader.class
-eu\kijora\crud\payroll\EmployeeRepository.class
-eu\kijora\crud\payroll\HomeController.class
-eu\kijora\crud\payroll\Employee.class
